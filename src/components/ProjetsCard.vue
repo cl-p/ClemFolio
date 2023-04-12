@@ -78,5 +78,17 @@ export default {
   p{
     text-align: justify;
   }
+  @media (max-width: 768px){
+  .project-description{
+    gap: 50px;
+    flex-direction: column;
+  }
+  .project-picture{
+    height: 150px;
+  }
+  .project-skills{
+    flex-wrap: wrap;
+  }
+ }
 
 </style>
