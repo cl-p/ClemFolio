@@ -32,9 +32,11 @@ export default {
     justify-content: flex-end;
     align-items: center;
     gap: 6%;
+    font-family: 'Barlow';
+    font-weight: bolder;
+    font-size: larger;
 }
 .logo-header{
-    width: 25%;
     display: flex;
     flex-wrap: nowrap;
     justify-content: flex-start;
@@ -45,6 +47,8 @@ export default {
     color:black;
 }
 .text-logo{
+    font-family: 'Pakades';
+    font-size: xx-large;
     text-decoration: none; 
     color: black;
 }

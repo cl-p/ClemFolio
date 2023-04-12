@@ -33,7 +33,7 @@
         </div>
       </div>
       <div>
-        <a href="./CurriculumVitae_Clementine_Pardieu.pdf" download>Ici</a>
+        <a href="./CurriculumVitae_Clementine_Pardieu.pdf" download><img src="../assets/Download.png" alt="dessin femme"></a>
       </div>
     </div>
 </template>

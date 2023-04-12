@@ -14,6 +14,14 @@
   </div>
 </template>
 
+<style>
+ .home-body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+ }
+</style>
+
 <script>
 // @ is an alias to /src
 //import HelloWorld from '@/components/HelloWorld.vue'

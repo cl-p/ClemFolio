@@ -5,6 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "publish": "git push -f https://github.com/cl-p/clemfolio.git master:gh-pages",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {

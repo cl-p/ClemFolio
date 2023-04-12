@@ -48,7 +48,7 @@
     </span>
 
     <div>
-      <a href="./Lettredemotivation_Pardieu_Clémentine.pdf" download>Ici</a>
+      <a href="./Lettredemotivation_Pardieu_Clémentine.pdf" download><img src="../assets/Download.png" alt="dessin femme" class="img-btn"></a>
     </div>
    
     
