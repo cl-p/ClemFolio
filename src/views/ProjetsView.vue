@@ -34,14 +34,14 @@ data: () => {
           "Respect d'une maquette"
         ],
         pictures: [
-          "/Projets/bookipart1_desktop.png",
-          "/Projets/bookipart2_desktop.png",
-          "/Projets/bookipart1_mobile.png",
-          "/Projets/bookipart2_mobile.png",
-          "/Projets/bookipart3_mobile.png",
-          "/Projets/bookipart4_mobile.png",
-          "/Projets/bookipart5_mobile.png",
-          "/Projets/bookipart6_mobile.png",
+          "/clemfolio/Projets/bookipart1_desktop.png",
+          "/clemfolio/Projets/bookipart2_desktop.png",
+          "/clemfolio/Projets/bookipart1_mobile.png",
+          "/clemfolio/Projets/bookipart2_mobile.png",
+          "/clemfolio/Projets/bookipart3_mobile.png",
+          "/clemfolio/Projets/bookipart4_mobile.png",
+          "/clemfolio/Projets/bookipart5_mobile.png",
+          "/clemfolio/Projets/bookipart6_mobile.png",
         ]
       },
       {
@@ -55,17 +55,17 @@ data: () => {
           "Hébergement"
         ],
         pictures: [
-          "/Projets/ohmyfoodpart1_desktop.png",
-          "/Projets/ohmyfoodpart2_desktop.png",
-          "/Projets/ohmyfoodpart3_desktop.png",
-          "/Projets/ohmyfoodpart4_desktop.png",
-          "/Projets/ohmyfoodpart5_desktop.png",
-          "/Projets/ohmyfoodpart1_mobile.png",
-          "/Projets/ohmyfoodpart2_mobile.png",
-          "/Projets/ohmyfoodpart3_mobile.png",
-          "/Projets/ohmyfoodpart4_mobile.png",
-          "/Projets/ohmyfoodpart5_mobile.png",
-          "/Projets/ohmyfoodpart6_mobile.png",
+          "/clemfolio/Projets/ohmyfoodpart1_desktop.png",
+          "/clemfolio/Projets/ohmyfoodpart2_desktop.png",
+          "/clemfolio/Projets/ohmyfoodpart3_desktop.png",
+          "/clemfolio/Projets/ohmyfoodpart4_desktop.png",
+          "/clemfolio/Projets/ohmyfoodpart5_desktop.png",
+          "/clemfolio/Projets/ohmyfoodpart1_mobile.png",
+          "/clemfolio/Projets/ohmyfoodpart2_mobile.png",
+          "/clemfolio/Projets/ohmyfoodpart3_mobile.png",
+          "/clemfolio/Projets/ohmyfoodpart4_mobile.png",
+          "/clemfolio/Projets/ohmyfoodpart5_mobile.png",
+          "/clemfolio/Projets/ohmyfoodpart6_mobile.png",
         ]
       },
       {
@@ -79,10 +79,10 @@ data: () => {
           
         ],
         pictures: [
-          "/Projets/pantherepart1_desktop.png",
-          "/Projets/pantherepart2_desktop.png",
-          "/Projets/pantherepart3_desktop.png",
-          "/Projets/pantherepart4_desktop.png",
+          "/clemfolio/Projets/pantherepart1_desktop.png",
+          "/clemfolio/Projets/pantherepart2_desktop.png",
+          "/clemfolio/Projets/pantherepart3_desktop.png",
+          "/clemfolio/Projets/pantherepart4_desktop.png",
           
         ]
       },
@@ -97,12 +97,12 @@ data: () => {
           
         ],
         pictures: [
-          "../Projets/kanap_part1.png",
-          "../Projets/kanap_part2.png",
-          "../Projets/kanap_part3.png",
-          "../Projets/kanap_part4.png",
-          "../Projets/kanap_part5.png",
-          "../Projets/kanap_part6.png",
+          "/clemfolio//Projets/kanap_part1.png",
+          "/clemfolio//Projets/kanap_part2.png",
+          "/clemfolio//Projets/kanap_part3.png",
+          "/clemfolio//Projets/kanap_part4.png",
+          "/clemfolio//Projets/kanap_part5.png",
+          "/clemfolio//Projets/kanap_part6.png",
           
         ]
       },
