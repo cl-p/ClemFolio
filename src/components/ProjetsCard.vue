@@ -76,7 +76,7 @@ export default {
     padding-right: 20px;
   }
   p{
-    text-align: justify;
+    text-align: justify; 
   }
   @media (max-width: 768px){
   .project-description{
