@@ -97,12 +97,12 @@ data: () => {
           
         ],
         pictures: [
-          "/Projets/kanap_part1.png",
-          "/Projets/kanap_part2.png",
-          "/Projets/kanap_part3.png",
-          "/Projets/kanap_part4.png",
-          "/Projets/kanap_part5.png",
-          "/Projets/kanap_part6.png",
+          "../Projets/kanap_part1.png",
+          "../Projets/kanap_part2.png",
+          "../Projets/kanap_part3.png",
+          "../Projets/kanap_part4.png",
+          "../Projets/kanap_part5.png",
+          "../Projets/kanap_part6.png",
           
         ]
       },
