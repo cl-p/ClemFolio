@@ -9,7 +9,7 @@
       <img alt="dessin accueil 1" src="../assets/img_accueil_1.png" class="img">
       <br>
       <h1>
-        Bienvenu sur le 
+        Bienvenue sur le 
       </h1>
       <img alt="logo_clemfolio" src="../assets/LOGO_page_accueil.png">
       <br>
